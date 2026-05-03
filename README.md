@@ -1,4 +1,4 @@
-# OSINT-Terminal 🕵️‍♂️
+# OSINT-Terminal 
 
 A fast, concurrent command-line reconnaissance tool built with Node.js. It allows you to search for a specific username across multiple platforms simultaneously to gather open-source intelligence (OSINT).
 
